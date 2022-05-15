@@ -1,5 +1,7 @@
 # Big Queue on Go
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/80e1a097119649e589e2c78737d20804)](https://app.codacy.com/gh/patriciabonaldy/big_queue?utm_source=github.com&utm_medium=referral&utm_content=patriciabonaldy/big_queue&utm_campaign=Badge_Grade_Settings)
+
 This is a simple big queue and implementation in kafka, rabbit and aws sqs.
 
 
